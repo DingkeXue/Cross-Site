@@ -1,0 +1,32 @@
+<!doctype html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport"
+          content="width=device-width, user-scalable=no, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>websocket</title>
+</head>
+<body>
+<h2>WebSocket</h2>
+<script>
+    if ('WebSocket' in window) {
+        let socket = new WebSocket('ws://localhost:8080');
+        socket.onopen = function () {
+            socket.send('来自浏览器');
+        };
+        socket.onmessage = function (ev) {
+            console.log(ev.data);
+        };
+        socket.onerror = function (e) {
+            console.log(e);
+        };
+        socket.onclose = function () {
+            console.log('关闭socket');
+        }
+    } else {
+        console.log('不支持socket');
+    }
+</script>
+</body>
+</html>
