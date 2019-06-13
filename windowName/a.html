@@ -1,0 +1,26 @@
+<!doctype html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport"
+          content="width=device-width, user-scalable=no, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>a</title>
+</head>
+<body>
+<h1>A</h1>
+<iframe id="frame" src="http://localhost:8088/c.html" onload="load()" frameborder="0"></iframe>
+<script>
+    let flag = true;
+    function load() {
+        let frame = document.getElementById('frame');
+        if (flag) {
+            frame.src = "http://localhost:8080/b.html";
+            flag = false;
+        } else {
+            console.log(frame.contentWindow.name)
+        }
+    }
+</script>
+</body>
+</html>
