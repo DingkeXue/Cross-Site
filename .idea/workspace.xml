@@ -1,12 +1,31 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="7e9a0aa9-d6e4-411c-8b4b-4e9c7ce49a26" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/Jsonp/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Jsonp/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Jsonp/jsonp.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Jsonp/readme.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Jsonp/server.js" afterDir="false" />
+    <list default="true" id="fc573ec5-167c-49a8-85bb-6206a2f959bf" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../Koa/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Animation/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Animation/requestAnimationFrame.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Animation/setInterval.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CORS/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CORS/main.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Comet/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Comet/main.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Debounce/debounce.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Debounce/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Geolocation/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Geolocation/main.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JSONP/JQuery.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JSONP/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JSONP/jQuery.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JSONP/main.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Throttle/Throttle.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Throttle/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../WebSockets/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../WebSockets/main.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../WebWorkers/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../WebWorkers/main.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../WebWorkers/worker.js" beforeDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -18,40 +37,32 @@
     <session id="1096406807">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.open.time.0" value="1" />
+          <entry key="project.open.time.3" value="1" />
           <entry key="project.opened" value="1" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
-          <entry key="gitignore" value="1" />
-          <entry key="html" value="1" />
-          <entry key="js" value="3" />
-          <entry key="md" value="1" />
+          <entry key="html" value="2" />
+          <entry key="js" value="2" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="HTML" value="1" />
-          <entry key="JavaScript" value="3" />
-          <entry key="Markdown" value="1" />
-          <entry key="PLAIN_TEXT" value="1" />
+          <entry key="HTML" value="2" />
+          <entry key="JavaScript" value="2" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="gitignore" value="13" />
-          <entry key="html" value="185" />
-          <entry key="js" value="894" />
-          <entry key="md" value="47" />
+          <entry key="html" value="30" />
+          <entry key="js" value="12" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="HTML" value="185" />
-          <entry key="JavaScript" value="894" />
-          <entry key="Markdown" value="47" />
-          <entry key="PLAIN_TEXT" value="13" />
+          <entry key="HTML" value="30" />
+          <entry key="JavaScript" value="12" />
         </counts>
       </usages-collector>
     </session>
@@ -59,52 +70,37 @@
   <component name="FileEditorManager">
     <leaf>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Jsonp/index.html">
+        <entry file="file://$PROJECT_DIR$/LocalStorage/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="203">
-              <caret line="13" column="26" selection-start-line="13" selection-start-column="26" selection-end-line="13" selection-end-column="26" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Jsonp/server.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="134">
-              <caret line="8" column="17" lean-forward="true" selection-start-line="8" selection-start-column="17" selection-end-line="8" selection-end-column="17" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Jsonp/jsonp.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="203">
-              <caret line="29" column="6" selection-start-line="29" selection-start-column="6" selection-end-line="29" selection-end-column="6" />
-              <folding>
-                <element signature="n#!!doc" expanded="true" />
-              </folding>
+            <state relative-caret-position="207">
+              <caret line="9" column="6" lean-forward="true" selection-start-line="9" selection-start-column="6" selection-end-line="9" selection-end-column="6" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/Jsonp/.gitignore">
+        <entry file="file://$PROJECT_DIR$/LocalStorage/main2.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state>
-              <caret column="13" lean-forward="true" selection-start-column="13" selection-end-column="13" />
+            <state relative-caret-position="46">
+              <caret line="2" column="44" selection-start-line="2" selection-start-column="44" selection-end-line="2" selection-end-column="44" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Jsonp/readme.md">
-          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-            <state split_layout="SPLIT">
-              <first_editor>
-                <caret column="35" selection-start-column="35" selection-end-column="35" />
-              </first_editor>
-              <second_editor />
+        <entry file="file://$PROJECT_DIR$/LocalStorage/main.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="253">
+              <caret line="23" column="32" selection-start-line="23" selection-start-column="32" selection-end-line="23" selection-end-column="32" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/LocalStorage/index2.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="156">
+              <caret line="22" lean-forward="true" selection-start-line="22" selection-end-line="22" />
             </state>
           </provider>
         </entry>
@@ -117,12 +113,10 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/Jsonp/readme.md" />
-        <option value="$PROJECT_DIR$/Jsonp/server.js" />
-        <option value="$PROJECT_DIR$/Jsonp/index.html" />
-        <option value="$PROJECT_DIR$/Jsonp/jsonp.js" />
-        <option value="$PROJECT_DIR$/Jsonp/gitignore.js" />
-        <option value="$PROJECT_DIR$/Jsonp/.gitignore" />
+        <option value="$PROJECT_DIR$/LocalStorage/main2.js" />
+        <option value="$PROJECT_DIR$/LocalStorage/index2.html" />
+        <option value="$PROJECT_DIR$/LocalStorage/main.js" />
+        <option value="$PROJECT_DIR$/LocalStorage/index.html" />
       </list>
     </option>
   </component>
@@ -132,7 +126,7 @@
     <detection-done>true</detection-done>
     <sorting>DEFINITION_ORDER</sorting>
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
+  <component name="ProjectFrameBounds" extendedState="7">
     <option name="x" value="-8" />
     <option name="y" value="-8" />
     <option name="width" value="1284" />
@@ -144,6 +138,9 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="PackagesPane" />
+      <pane id="Scope" />
+      <pane id="AndroidView" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -154,21 +151,17 @@
             <path>
               <item name="CrossSite" type="b2602c69:ProjectViewProjectNode" />
               <item name="CrossSite" type="462c0819:PsiDirectoryNode" />
-              <item name="Jsonp" type="462c0819:PsiDirectoryNode" />
+              <item name="LocalStorage" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="AndroidView" />
-      <pane id="PackagesPane" />
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1560409660638" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
@@ -190,20 +183,20 @@
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="7e9a0aa9-d6e4-411c-8b4b-4e9c7ce49a26" name="Default Changelist" comment="" />
-      <created>1560405622597</created>
+      <changelist id="fc573ec5-167c-49a8-85bb-6206a2f959bf" name="Default Changelist" comment="" />
+      <created>1563783525552</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1560405622597</updated>
-      <workItem from="1560405623954" duration="4364000" />
+      <updated>1563783525552</updated>
+      <workItem from="1563783527072" duration="2543000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="4364000" />
+    <option name="totallyTimeSpent" value="2543000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1320" height="784" extended-state="6" />
+    <frame x="-8" y="-8" width="1320" height="784" extended-state="7" />
     <editor active="true" />
     <layout>
       <window_info id="Image Layers" />
@@ -242,51 +235,31 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/Jsonp/readme.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor>
-            <caret column="35" selection-start-column="35" selection-end-column="35" />
-          </first_editor>
-          <second_editor />
+    <entry file="file://$PROJECT_DIR$/LocalStorage/index2.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="156">
+          <caret line="22" lean-forward="true" selection-start-line="22" selection-end-line="22" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Jsonp/index.html">
+    <entry file="file://$PROJECT_DIR$/LocalStorage/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="203">
-          <caret line="13" column="26" selection-start-line="13" selection-start-column="26" selection-end-line="13" selection-end-column="26" />
+        <state relative-caret-position="207">
+          <caret line="9" column="6" lean-forward="true" selection-start-line="9" selection-start-column="6" selection-end-line="9" selection-end-column="6" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Jsonp/server.js">
+    <entry file="file://$PROJECT_DIR$/LocalStorage/main.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="134">
-          <caret line="8" column="17" lean-forward="true" selection-start-line="8" selection-start-column="17" selection-end-line="8" selection-end-column="17" />
+        <state relative-caret-position="253">
+          <caret line="23" column="32" selection-start-line="23" selection-start-column="32" selection-end-line="23" selection-end-column="32" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Jsonp/gitignore.js">
+    <entry file="file://$PROJECT_DIR$/LocalStorage/main2.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="13" lean-forward="true" selection-start-column="13" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Jsonp/jsonp.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="203">
-          <caret line="29" column="6" selection-start-line="29" selection-start-column="6" selection-end-line="29" selection-end-column="6" />
-          <folding>
-            <element signature="n#!!doc" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Jsonp/.gitignore">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="13" lean-forward="true" selection-start-column="13" selection-end-column="13" />
+        <state relative-caret-position="46">
+          <caret line="2" column="44" selection-start-line="2" selection-start-column="44" selection-end-line="2" selection-end-column="44" />
         </state>
       </provider>
     </entry>
