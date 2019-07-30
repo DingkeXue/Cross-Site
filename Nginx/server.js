@@ -6,7 +6,7 @@ app.get('/', function (req, res) {
         'Set-Cookie': 'Path=/;Domain=www.domain2.com;HttpOnly'
     });
     res.write(JSON.stringify(params));
-    res.end();
+    res.end("{user: 'lbb'}");
 });
 
 app.listen(8080);

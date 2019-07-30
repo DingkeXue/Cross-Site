@@ -12,8 +12,8 @@ xhr.onreadystatechange = function() {
       }
   }
 };
-// 访问 nginx 中的代理服务器
-xhr.open('get', 'http://www.domain1.com:81/?user=admin', true);
+// 访问 nginx 中的代理服务器。切记，这里的路径要是用相对路径
+xhr.open('get', '/api/user', true);
 // 是否携带 cookie
 xhr.withCredentials = true;
 xhr.send(null);

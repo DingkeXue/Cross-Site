@@ -1,12 +1,19 @@
 /*
 * proxy 服务器
-* 域名和 domain1 相同，端口号是 81
+* 域名和 domain1 相同，端口号是 81,假设地址是 http://127.0.0.1:81
 * */
 server {
     // 监听端口号
     listen: 80;
     // 监听域名
     server_name: www.domain1.com;
+
+    // 根据访问路径配置
+    location / {
+        // 把请求转发到代理上
+        proxy_pass http://127.0.0.1:81
+    }
+
     // 对 /api 下的请求进行代理
     location /api {
         // 代理目标地址
